@@ -51,5 +51,5 @@ fi
 sudo python ./main.py
 
 # Run node
-node scrape.js
+nodejs scrape.js
 python plot2.py

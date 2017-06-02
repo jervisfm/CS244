@@ -9,8 +9,9 @@ Ubuntu 17.04 (GNU/Linux 4.10.0-19-generic x86_64)
 
 ## Running the experiment
 ```
-git clone ...
-cd ..
+git clone https://github.com/ShadovvMoon/CS244.git
+cd CS244
+chmod +x ./run.sh
 sudo ./run.sh
 ```
 
