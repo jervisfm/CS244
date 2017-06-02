@@ -148,6 +148,8 @@ def experiment(bandwidth, rtt, initcwnd, initrwnd, file=[
         sleep(S)
         now = time()
         delta = now - start_time
+        if delta > T:
+            break
         print "%.1fs left..." % (T - delta)
 
     # Clean up
