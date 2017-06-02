@@ -5,6 +5,7 @@ Set up an instance on Google cloud with the following configuration:
 ```
 n1-standard-1 (1 vCPU, 3.75 GB memory)
 Ubuntu 17.04 (GNU/Linux 4.10.0-19-generic x86_64)
+Allow HTTP/HTTPS traffic
 ```
 
 ## Running the experiment
