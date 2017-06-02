@@ -53,3 +53,7 @@ sudo python ./main.py
 # Run node
 nodejs scrape.js
 python plot2.py
+
+# Done
+echo 'Complete! The results are stored in ./results/'
+echo 'If anything went wrong or you have any questions, please contact me at samuco@stanford.edu'
